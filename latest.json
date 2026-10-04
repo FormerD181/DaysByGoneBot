@@ -1,5 +1,5 @@
 {
-  "version": "1.4",
+  "version": "1.5",
   "zip": "https://raw.githubusercontent.com/FormerD181/DaysByGoneBot/main/days_bygone_bot.zip",
-  "notes": "Exact World Tree planner + next 5 apples, reads Starforce/15-star heroes and Health/Mana from Stats, ghost loss streak counters"
+  "notes": "Smarter ghost fights (best-spot aiming, real spell shapes, front ghost first), Day Guide, Heroes tab (all Book of Heroes posts with emojis), new layout with side panel tools, custom title bar, purple dino taskbar icon"
 }
