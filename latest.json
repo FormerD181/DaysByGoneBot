@@ -1,5 +1,5 @@
 {
-  "version": "1.7",
+  "version": "1.7.1",
   "zip": "https://raw.githubusercontent.com/FormerD181/DaysByGoneBot/main/days_bygone_bot.zip",
-  "notes": "Ghost fights: waits for the whole wave then hits it with one spell, saves screen clears and mana for big groups (reads the mana bar), light beam goes in front of the front ghost, Flame Lance aimed from the hero, Gust aimed as a horizontal band, steadier ghost speed tracking. Daily reward claimed automatically. Less stutter during ghost battles."
+  "notes": "Ghost fights: waits for the whole wave then hits it with one spell, saves screen clears and mana for big groups (reads the mana bar), light beam goes in front of the front ghost, Flame Lance aimed from the hero, Gust aimed as a horizontal band, steadier ghost speed tracking."
 }
