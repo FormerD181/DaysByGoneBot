@@ -1,5 +1,5 @@
 {
-  "version": "1.5",
+  "version": "1.6",
   "zip": "https://raw.githubusercontent.com/FormerD181/DaysByGoneBot/main/days_bygone_bot.zip",
-  "notes": "Smarter ghost fights (best-spot aiming, real spell shapes, front ghost first), Day Guide, Heroes tab (all Book of Heroes posts with emojis), new layout with side panel tools, custom title bar, purple dino taskbar icon"
+  "notes": "Ghost fights: one spell for a whole group (hits first, then cost), bigger Fireball/Thunderbolt reach, Genesis cast further ahead, Deuteronomy X always cast in the middle"
 }
