@@ -1,5 +1,5 @@
 {
-  "version": "1.6",
+  "version": "1.7",
   "zip": "https://raw.githubusercontent.com/FormerD181/DaysByGoneBot/main/days_bygone_bot.zip",
-  "notes": "Ghost fights: one spell for a whole group (hits first, then cost), bigger Fireball/Thunderbolt reach, Genesis cast further ahead, Deuteronomy X always cast in the middle"
+  "notes": "Ghost fights: waits for the whole wave then hits it with one spell, saves screen clears and mana for big groups, light beam goes in front of the front ghost, Flame Lance aimed from the hero, steadier ghost speed tracking. Daily reward claimed automatically. Less stutter during ghost battles."
 }
