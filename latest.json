@@ -1,5 +1,5 @@
 {
-  "version": "1.3",
+  "version": "1.4",
   "zip": "https://raw.githubusercontent.com/FormerD181/DaysByGoneBot/main/days_bygone_bot.zip",
-  "notes": "World Tree planner: best build for your apples + next 5 apples, Read from game fills in all stats"
+  "notes": "Exact World Tree planner + next 5 apples, reads Starforce/15-star heroes and Health/Mana from Stats, ghost loss streak counters"
 }
