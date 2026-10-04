@@ -1,5 +1,5 @@
 {
-  "version": "1.8",
+  "version": "1.8.1",
   "zip": "https://raw.githubusercontent.com/FormerD181/DaysByGoneBot/main/days_bygone_bot.zip",
-  "notes": "Heroes tab: new Teams (by game mode), Synergy (best pairs and partners) and Guides (evolutions, unlocks, mechanics, 15 stars) tabs. Phone alerts for human checks (ntfy app or Discord webhook) in the Alarm panel."
+  "notes": "Run timer: counts up while the bot is running (pauses on Stop or a human check)."
 }
