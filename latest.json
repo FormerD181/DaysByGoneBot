@@ -1,5 +1,5 @@
 {
-  "version": "1.8.2",
+  "version": "1.8.3",
   "zip": "https://raw.githubusercontent.com/FormerD181/DaysByGoneBot/main/days_bygone_bot.zip",
-  "notes": "Out of rewinds: optional Hell Expedition (picks your hero team, starts Hell, cloud-saves to the menu, stops) - otherwise stops and alerts instead of a false human-check alarm. Run timer is now an all-time total that's kept between restarts."
+  "notes": "Fix: Hell Expedition now finds the cloud-save button on the pause menu."
 }
