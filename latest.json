@@ -1,5 +1,5 @@
 {
-  "version": "1.8.3",
+  "version": "1.9",
   "zip": "https://raw.githubusercontent.com/FormerD181/DaysByGoneBot/main/days_bygone_bot.zip",
-  "notes": "Fix: Hell Expedition now finds the cloud-save button on the pause menu."
+  "notes": "Rest mode: every N rewinds take a break in a Hell Expedition (idle or active), Dungeon (idle, X2 loot) or Hunt (pick boss + level), for a random 1-60 min, then come back with X2 idle rewards and your rewind team. New Rest panel. Results X2 loot is collected."
 }
