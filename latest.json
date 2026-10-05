@@ -1,5 +1,5 @@
 {
-  "version": "1.8.1",
+  "version": "1.8.2",
   "zip": "https://raw.githubusercontent.com/FormerD181/DaysByGoneBot/main/days_bygone_bot.zip",
-  "notes": "Run timer: counts up while the bot is running (pauses on Stop or a human check)."
+  "notes": "Out of rewinds: optional Hell Expedition (picks your hero team, starts Hell, cloud-saves to the menu, stops) - otherwise stops and alerts instead of a false human-check alarm. Run timer is now an all-time total that's kept between restarts."
 }
