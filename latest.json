@@ -1,5 +1,5 @@
 {
-  "version": "1.9",
+  "version": "1.10",
   "zip": "https://raw.githubusercontent.com/FormerD181/DaysByGoneBot/main/days_bygone_bot.zip",
-  "notes": "Rest mode: every N rewinds take a break in a Hell Expedition (idle or active), Dungeon (idle, X2 loot) or Hunt (pick boss + level), for a random 1-60 min, then come back with X2 idle rewards and your rewind team. New Rest panel. Results X2 loot is collected."
+  "notes": "Daily summary to your phone at 8 AM (game reset). Attach BlueStacks to the bot window (follows when dragged; right-click Detach for compact mode). Auto-Revive on campaign defeat, also while the bot is stopped. Labyrinth guide in the Guide tab. Ghost fights: Gust aimed as a band, casts spaced so none get lost, Deuteronomy aimed at the group, ignores spell glow, no waiting for a screen clear on cooldown. Battle menu found even when shifted (fixes getting stuck after Hunt rests)."
 }
