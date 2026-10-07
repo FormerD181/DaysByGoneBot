@@ -1,5 +1,5 @@
 {
-  "version": "1.10",
+  "version": "1.10.1",
   "zip": "https://raw.githubusercontent.com/FormerD181/DaysByGoneBot/main/days_bygone_bot.zip",
-  "notes": "Daily summary to your phone at 8 AM (game reset). Attach BlueStacks to the bot window (follows when dragged; right-click Detach for compact mode). Auto-Revive on campaign defeat, also while the bot is stopped. Labyrinth guide in the Guide tab. Ghost fights: Gust aimed as a band, casts spaced so none get lost, Deuteronomy aimed at the group, ignores spell glow, no waiting for a screen clear on cooldown. Battle menu found even when shifted (fixes getting stuck after Hunt rests)."
+  "notes": "Compact mode: START / STOP buttons and the run timer in the slim bar."
 }
