@@ -1,5 +1,5 @@
 {
-  "version": "1.10.1",
+  "version": "1.10.2",
   "zip": "https://raw.githubusercontent.com/FormerD181/DaysByGoneBot/main/days_bygone_bot.zip",
-  "notes": "Compact mode: START / STOP buttons and the run timer in the slim bar."
+  "notes": "Out of rewinds: choose Hell Expedition or Dungeon to idle. Idle Progress popup collected with X2 LOOT anytime (no more getting stuck). Option to detach BlueStacks on a human check (re-attaches on START). Ghost fights: no more waiting too long on fast waves."
 }
