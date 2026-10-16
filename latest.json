@@ -1,5 +1,5 @@
 {
-  "version": "1.10.2",
+  "version": "1.10.3",
   "zip": "https://raw.githubusercontent.com/FormerD181/DaysByGoneBot/main/days_bygone_bot.zip",
-  "notes": "Out of rewinds: choose Hell Expedition or Dungeon to idle. Idle Progress popup collected with X2 LOOT anytime (no more getting stuck). Option to detach BlueStacks on a human check (re-attaches on START). Ghost fights: no more waiting too long on fast waves."
+  "notes": "Phone warning if the game screen hasn't changed for 10 minutes. Turns Auto Continue off (pause menu) when the first run starts. Ghost fights: Ice Shard aimed as a patch (not a full column), real ghost speeds per colour, less waiting to save mana."
 }
