@@ -1,4 +1,4 @@
 # Days Bygone Bot releases
 
-Newest: **v1.10.3** -- download `days_bygone_bot.zip`.
+Newest: **v1.11** -- download `days_bygone_bot.zip`.
 Installed bots update themselves from here (Update button).

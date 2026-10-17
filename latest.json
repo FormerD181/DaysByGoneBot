@@ -1,5 +1,5 @@
 {
-  "version": "1.10.3",
+  "version": "1.11",
   "zip": "https://raw.githubusercontent.com/FormerD181/DaysByGoneBot/main/days_bygone_bot.zip",
-  "notes": "Phone warning if the game screen hasn't changed for 10 minutes. Turns Auto Continue off (pause menu) when the first run starts. Ghost fights: Ice Shard aimed as a patch (not a full column), real ghost speeds per colour, less waiting to save mana."
+  "notes": "Multi-instance: one bot window per BlueStacks instance (title-bar instance button opens another), each with its own settings, counters and dock; phone alerts say which instance. Ghost fights: Genesis aimed further ahead of fast light ghosts, casts spaced so slow BlueStacks doesn't drop them."
 }
