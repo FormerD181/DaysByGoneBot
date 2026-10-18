@@ -1,5 +1,5 @@
 {
-  "version": "1.11",
+  "version": "1.11.1",
   "zip": "https://raw.githubusercontent.com/FormerD181/DaysByGoneBot/main/days_bygone_bot.zip",
-  "notes": "Multi-instance: one bot window per BlueStacks instance (title-bar instance button opens another), each with its own settings, counters and dock; phone alerts say which instance. Ghost fights: Genesis aimed further ahead of fast light ghosts, casts spaced so slow BlueStacks doesn't drop them."
+  "notes": "Fix: the floating Flashback pill no longer hides the Skills/Stats title (bot kept waiting instead of starting the ghost fight). Flashback popup: OK when entering the ghost fight, closed otherwise."
 }
