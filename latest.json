@@ -1,5 +1,5 @@
 {
-  "version": "1.11.1",
+  "version": "1.11.2",
   "zip": "https://raw.githubusercontent.com/FormerD181/DaysByGoneBot/main/days_bygone_bot.zip",
-  "notes": "Fix: the floating Flashback pill no longer hides the Skills/Stats title (bot kept waiting instead of starting the ghost fight). Flashback popup: OK when entering the ghost fight, closed otherwise."
+  "notes": "Fix: bot window no longer opens minimized/behind other windows; launching again brings it forward (or offers to close a stuck copy) instead of 'already open'. Odd-sized screenshots no longer crash the bot."
 }
