@@ -1,5 +1,5 @@
 {
-  "version": "1.11.2",
+  "version": "1.12",
   "zip": "https://raw.githubusercontent.com/FormerD181/DaysByGoneBot/main/days_bygone_bot.zip",
-  "notes": "Fix: bot window no longer opens minimized/behind other windows; launching again brings it forward (or offers to close a stuck copy) instead of 'already open'. Odd-sized screenshots no longer crash the bot."
+  "notes": "Phone remote: watch the game live and tap/swipe it from your phone (home Wi-Fi or anywhere with Tailscale), PIN-protected, START/STOP from the phone, human-check alerts link straight to it (Alarm panel > Phone remote). Ghost fights: longer drags + more aim lead so slow BlueStacks doesn't misplace spells; the bot now remembers ghosts hidden behind bright spell effects so it saves mana for the right screen-clear spell."
 }
