@@ -1,5 +1,5 @@
 {
-  "version": "1.13.2",
+  "version": "1.13.3",
   "zip": "https://raw.githubusercontent.com/FormerD181/DaysByGoneBot/main/days_bygone_bot.zip",
-  "notes": "Fix: campaign spells weren't cast -- a campaign DEFEAT without Revive switched the bot into ghost-fight mode (no casting, no revives) until the next rewind; it now stays in the campaign (and recovers on its own if it ever gets confused). Spells: no-mana (blue) detection works right away even when mana stays low; spell taps are a short press so slow BlueStacks doesn't miss them."
+  "notes": "Auto-cast spells now work in every battle: campaign, Expedition, Dungeon, Hunt (active rest) -- and while the bot is stopped and you play yourself. Never in ghost fights, rewinds, or while the bot is pausing / leaving a battle."
 }
