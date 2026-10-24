@@ -1,5 +1,5 @@
 {
-  "version": "1.12.1",
+  "version": "1.13",
   "zip": "https://raw.githubusercontent.com/FormerD181/DaysByGoneBot/main/days_bygone_bot.zip",
-  "notes": "Fix: BlueStacks attached to the bot no longer shows a zoomed-in corner of the game after the bot is minimized and restored (if it still happens: Detach, then Attach). Ghost fights: Flame Lance waits until the fire ghosts are a bit closer -- its beam comes out slightly low, so long shots passed under the group."
+  "notes": "Campaign spells (Tools > Spells): pick which of spells 1-6 to cast while pushing the campaign, Tap or Drag for each, and draw the area drags land in (random spot inside). Only casts when ready -- not on cooldown, not blue (no mana), not while a stay-on spell is still on. Wasteland: collects the Ticket Usher's tickets and/or the Elixir Generator's elixir when the World Map shows them ready (Collect in Wasteland: Tickets / Elixir)."
 }
