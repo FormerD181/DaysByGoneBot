@@ -1,5 +1,5 @@
 {
-  "version": "1.13",
+  "version": "1.13.1",
   "zip": "https://raw.githubusercontent.com/FormerD181/DaysByGoneBot/main/days_bygone_bot.zip",
-  "notes": "Campaign spells (Tools > Spells): pick which of spells 1-6 to cast while pushing the campaign, Tap or Drag for each, and draw the area drags land in (random spot inside). Only casts when ready -- not on cooldown, not blue (no mana), not while a stay-on spell is still on. Wasteland: collects the Ticket Usher's tickets and/or the Elixir Generator's elixir when the World Map shows them ready (Collect in Wasteland: Tickets / Elixir)."
+  "notes": "Campaign spells: new Toggle choice for spells that stay on (two green dots circle them): clicked once to switch on, never while the dots are showing."
 }
