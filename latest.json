@@ -1,5 +1,5 @@
 {
-  "version": "1.13.1",
+  "version": "1.13.2",
   "zip": "https://raw.githubusercontent.com/FormerD181/DaysByGoneBot/main/days_bygone_bot.zip",
-  "notes": "Campaign spells: new Toggle choice for spells that stay on (two green dots circle them): clicked once to switch on, never while the dots are showing."
+  "notes": "Fix: campaign spells weren't cast -- a campaign DEFEAT without Revive switched the bot into ghost-fight mode (no casting, no revives) until the next rewind; it now stays in the campaign (and recovers on its own if it ever gets confused). Spells: no-mana (blue) detection works right away even when mana stays low; spell taps are a short press so slow BlueStacks doesn't miss them."
 }
