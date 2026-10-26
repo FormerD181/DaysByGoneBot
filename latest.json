@@ -1,5 +1,5 @@
 {
-  "version": "1.13.3",
+  "version": "1.13.4",
   "zip": "https://raw.githubusercontent.com/FormerD181/DaysByGoneBot/main/days_bygone_bot.zip",
-  "notes": "Auto-cast spells now work in every battle: campaign, Expedition, Dungeon, Hunt (active rest) -- and while the bot is stopped and you play yourself. Never in ghost fights, rewinds, or while the bot is pausing / leaving a battle."
+  "notes": "Fix: phone alerts failed with 'certificate has expired' (ntfy.sh switched to a new certificate that Windows' list doesn't know yet). The bot now carries an up-to-date certificate list for alerts and updates."
 }
